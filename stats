@@ -68,7 +68,7 @@
     <script>
         // Configuration - EDIT THESE
         const PIHOLE_URL = 'http://your-pihole-ip-or-hostname';
-        const API_KEY = 'your-api-key';
+        const API_KEY = 'aki';
         const REFRESH_INTERVAL = 10; // seconds
         
         function fetchStats() {
