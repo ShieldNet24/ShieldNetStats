@@ -67,7 +67,7 @@
 
     <script>
         // Configuration - EDIT THESE
-        const PIHOLE_URL = 'http://your-pihole-ip-or-hostname';
+        const PIHOLE_URL = 'http://192.168.1.6/admin/';
         const API_KEY = 'aki';
         const REFRESH_INTERVAL = 10; // seconds
         
