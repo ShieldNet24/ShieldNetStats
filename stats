@@ -67,7 +67,7 @@
 
     <script>
         // Configuration - EDIT THESE
-        const PIHOLE_URL = 'http://192.168.1.6/admin/';
+        const PIHOLE_URL = 'http://100.92.199.125/admin/';
         const API_KEY = 'aki';
         const REFRESH_INTERVAL = 10; // seconds
         
